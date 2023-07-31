@@ -1,0 +1,58 @@
+{
+    "status": {
+        "capetown": {
+            "name": "Cape Town",
+            "next_stages": [
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-07-31T22:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-08-01T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-08-01T22:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-08-02T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-08-02T22:00:00+02:00"
+                }
+            ],
+            "stage": "2",
+            "stage_updated": "2023-07-31T05:00:01.044300+02:00"
+        },
+        "eskom": {
+            "name": "Eskom",
+            "next_stages": [
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-07-31T16:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-08-01T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-08-01T16:00:00+02:00"
+                },
+                {
+                    "stage": "2",
+                    "stage_start_timestamp": "2023-08-02T05:00:00+02:00"
+                },
+                {
+                    "stage": "4",
+                    "stage_start_timestamp": "2023-08-02T16:00:00+02:00"
+                }
+            ],
+            "stage": "2",
+            "stage_updated": "2023-07-31T05:00:01.044300+02:00"
+        }
+    }
+}
